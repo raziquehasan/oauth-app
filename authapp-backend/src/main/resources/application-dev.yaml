@@ -11,7 +11,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/auth_app_yt
     username: root
-    password: razique@123
+    password: 98765454555
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
@@ -29,8 +29,8 @@ spring:
         registration:
 
           google:
-            client-id: 368385459014-fbf36sr7gm64e9v4bo8emqg538sqvg0s.apps.googleusercontent.com
-            client-secret: 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
+            client-id: 3683lOLSOJKLIAJWEOIAWJRFJKLKKDSGFSD.DOIJAWOIR
+            client-secret:KHJEWKDHSIKRFJSDJIGLKRDJGLKRJGLKG
             scope:
               - email
               - profile
@@ -40,8 +40,8 @@ spring:
             client-name: Google
 
           github:
-            client-id: Ov23liphJy1tUMfS4RL5
-            client-secret: 1fb0227787e23681b6fd0969a4090eabce72801f
+            client-id: awdhsekirfieksjfvlkzdnvkzdmg
+            client-secret: jisjdolsjkfl;dm,gvl/xd,vb/;zdg;perk
             scope:
               - read:user
               - user:email
