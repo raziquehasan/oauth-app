@@ -272,6 +272,7 @@ auth-app-boot-react/
 ## 🧑‍💻 Author
 
 Made By Razique Hasan
+email: hasanrazique@gmail.com
 
 
 ---
